@@ -1,0 +1,188 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: pit1
+  m_Shader: {fileID: 4800000, guid: 11a55839dd811b5469e9679411f707b3, type: 3}
+  m_ShaderKeywords: _NORMALMAP
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseSpecular:
+        m_Texture: {fileID: 2800000, guid: d5cc7cc1b5e721647abceb64b4cba77b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BlueColor:
+        m_Texture: {fileID: 2800000, guid: d711c80d841d92e48a17dd5889b9cd4a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BlueNormal:
+        m_Texture: {fileID: 2800000, guid: 536cdf26141c0a24aa45f95e47c95443, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: edf30e13382582a439e3d6cdbe396421, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GreenColor:
+        m_Texture: {fileID: 2800000, guid: f92583fd59276a44989eef7c62cb8ddc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GreenNormal:
+        m_Texture: {fileID: 2800000, guid: 26db3f0cc4ad3f344a37b22082f2dfdc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 82e36a8706635dd4fb0c6751a6963129, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RedColor:
+        m_Texture: {fileID: 2800000, guid: 1f5ba25ace30c1e418cbe078eec9d233, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RedNormal:
+        m_Texture: {fileID: 2800000, guid: fa4b0a660a7bfef48977e944000a0d1c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _baseNormal:
+        m_Texture: {fileID: 2800000, guid: edf30e13382582a439e3d6cdbe396421, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _basecolor:
+        m_Texture: {fileID: 2800000, guid: 82e36a8706635dd4fb0c6751a6963129, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _basespecular:
+        m_Texture: {fileID: 2800000, guid: d5cc7cc1b5e721647abceb64b4cba77b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _blueColor:
+        m_Texture: {fileID: 2800000, guid: d711c80d841d92e48a17dd5889b9cd4a, type: 3}
+        m_Scale: {x: 15, y: 15}
+        m_Offset: {x: 0, y: 0}
+    - _blueNormal:
+        m_Texture: {fileID: 2800000, guid: 536cdf26141c0a24aa45f95e47c95443, type: 3}
+        m_Scale: {x: 15, y: 15}
+        m_Offset: {x: 0, y: 0}
+    - _detailcolor:
+        m_Texture: {fileID: 2800000, guid: e4c43b6e1563f344891c981f876d66ca, type: 3}
+        m_Scale: {x: 5, y: 5}
+        m_Offset: {x: 0, y: 0}
+    - _grassNormal:
+        m_Texture: {fileID: 2800000, guid: 6c629f6dec002db4ba9ea6d9593af417, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _grasscolor:
+        m_Texture: {fileID: 2800000, guid: 84a24d52028b25a4c84d1c2cf89d214a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _grassmask:
+        m_Texture: {fileID: 2800000, guid: 93b3585d1c2a7b243be35137a2c182bf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _greenNormal:
+        m_Texture: {fileID: 2800000, guid: 26db3f0cc4ad3f344a37b22082f2dfdc, type: 3}
+        m_Scale: {x: 10, y: 10}
+        m_Offset: {x: 0, y: 0}
+    - _greencolor:
+        m_Texture: {fileID: 2800000, guid: f92583fd59276a44989eef7c62cb8ddc, type: 3}
+        m_Scale: {x: 10, y: 10}
+        m_Offset: {x: 0, y: 0}
+    - _node_8773:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_9044:
+        m_Texture: {fileID: 8900000, guid: 61cfd1a9457c41049898bba9c43addfe, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _redNormal:
+        m_Texture: {fileID: 2800000, guid: fa4b0a660a7bfef48977e944000a0d1c, type: 3}
+        m_Scale: {x: 10, y: 10}
+        m_Offset: {x: 0, y: 0}
+    - _redcolor:
+        m_Texture: {fileID: 2800000, guid: 1f5ba25ace30c1e418cbe078eec9d233, type: 3}
+        m_Scale: {x: 10, y: 10}
+        m_Offset: {x: 0, y: 0}
+    - _reflection:
+        m_Texture: {fileID: 8900000, guid: 61cfd1a9457c41049898bba9c43addfe, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _splatmap:
+        m_Texture: {fileID: 2800000, guid: 738354a5a7f9cd94aba3514fa3cc77c9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BlueTilling: 30
+    - _BumpScale: 2.43
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _Float0: 0.404
+    - _Glossiness: 0.573
+    - _GreenTilling: 20
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    - __dirty: 0
+    - _blend: 0.202
+    - _grassTilling: 24
+    - _normalstrenght: 2
+    - _redtilling: 10
+    - _reflectadd: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SpecColor: {r: 0.30882353, g: 0.30882353, b: 0.30882353, a: 1}
+  m_BuildTextureStacks: []

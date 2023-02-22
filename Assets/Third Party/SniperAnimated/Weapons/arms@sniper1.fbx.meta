@@ -1,0 +1,870 @@
+fileFormatVersion: 2
+guid: b8fd9942cd8a4f1469efbb16fb69d875
+timeCreated: 1476180046
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: base
+    100004: bolt
+    100006: bullet
+    100008: clip
+    100010: Joint_3
+    100012: Joint_3_2
+    100014: Joint_3_2_2
+    100016: Joint_3_2_3
+    100018: Joint_3_3
+    100020: Joint_3_3_2
+    100022: Joint_3_4
+    100024: Joint_3_4_2
+    100026: Joint_3_5
+    100028: Joint_3_5_2
+    100030: L_arm
+    100032: L_arm_Pole
+    100034: L_elbow
+    100036: L_forearm
+    100038: L_middle1
+    100040: L_middle2
+    100042: L_middle3
+    100044: L_palm
+    100046: L_pink1
+    100048: L_pink2
+    100050: L_pink3
+    100052: L_point
+    100054: L_point2
+    100056: L_point3
+    100058: L_ring1
+    100060: L_ring2
+    100062: L_ring3
+    100064: L_thumb1
+    100066: L_thumb2
+    100068: L_thumb3
+    100070: L_wrist
+    100072: L_wrist_Goal
+    100074: mesh
+    100076: R_arm
+    100078: R_arm_Pole
+    100080: R_elbow
+    100082: R_forearm
+    100084: R_middle1
+    100086: R_middle2
+    100088: R_middle3
+    100090: R_palm
+    100092: R_pink1
+    100094: R_pink2
+    100096: R_pink3
+    100098: R_point
+    100100: R_point2
+    100102: R_point3
+    100104: R_ring1
+    100106: R_ring2
+    100108: R_ring3
+    100110: R_thumb1
+    100112: R_thumb2
+    100114: R_thumb3
+    100116: R_wrist
+    100118: R_wrist_Goal
+    100120: scope
+    100122: silencer
+    100124: sniper
+    100126: stock
+    100128: trigger
+    100130: lens
+    400000: //RootNode
+    400002: base
+    400004: bolt
+    400006: bullet
+    400008: clip
+    400010: Joint_3
+    400012: Joint_3_2
+    400014: Joint_3_2_2
+    400016: Joint_3_2_3
+    400018: Joint_3_3
+    400020: Joint_3_3_2
+    400022: Joint_3_4
+    400024: Joint_3_4_2
+    400026: Joint_3_5
+    400028: Joint_3_5_2
+    400030: L_arm
+    400032: L_arm_Pole
+    400034: L_elbow
+    400036: L_forearm
+    400038: L_middle1
+    400040: L_middle2
+    400042: L_middle3
+    400044: L_palm
+    400046: L_pink1
+    400048: L_pink2
+    400050: L_pink3
+    400052: L_point
+    400054: L_point2
+    400056: L_point3
+    400058: L_ring1
+    400060: L_ring2
+    400062: L_ring3
+    400064: L_thumb1
+    400066: L_thumb2
+    400068: L_thumb3
+    400070: L_wrist
+    400072: L_wrist_Goal
+    400074: mesh
+    400076: R_arm
+    400078: R_arm_Pole
+    400080: R_elbow
+    400082: R_forearm
+    400084: R_middle1
+    400086: R_middle2
+    400088: R_middle3
+    400090: R_palm
+    400092: R_pink1
+    400094: R_pink2
+    400096: R_pink3
+    400098: R_point
+    400100: R_point2
+    400102: R_point3
+    400104: R_ring1
+    400106: R_ring2
+    400108: R_ring3
+    400110: R_thumb1
+    400112: R_thumb2
+    400114: R_thumb3
+    400116: R_wrist
+    400118: R_wrist_Goal
+    400120: scope
+    400122: silencer
+    400124: sniper
+    400126: stock
+    400128: trigger
+    400130: lens
+    2300000: base
+    2300002: bolt
+    2300004: bullet
+    2300006: clip
+    2300008: scope
+    2300010: silencer
+    2300012: stock
+    2300014: trigger
+    2300016: lens
+    3300000: base
+    3300002: bolt
+    3300004: bullet
+    3300006: clip
+    3300008: scope
+    3300010: silencer
+    3300012: stock
+    3300014: trigger
+    3300016: lens
+    4300000: stock
+    4300002: scope
+    4300004: silencer
+    4300006: bolt
+    4300008: base
+    4300010: trigger
+    4300012: clip
+    4300014: bullet
+    4300016: mesh
+    4300018: lens
+    7400000: sniper1Fire
+    7400002: sniper1Reload
+    7400004: sniper1Hide
+    7400006: sniper1Ready
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 1
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: sniper1Fire
+      takeName: CINEMA_4D_Main
+      firstFrame: 0
+      lastFrame: 7
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: L_arm
+        weight: 1
+      - path: L_arm/L_elbow
+        weight: 1
+      - path: L_arm/L_elbow/L_forearm
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_middle1
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_middle1/L_middle2
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_middle1/L_middle2/L_middle3
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_middle1/L_middle2/L_middle3/Joint_3_4
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_pink1
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_pink1/L_pink2
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_pink1/L_pink2/L_pink3
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_pink1/L_pink2/L_pink3/Joint_3_3
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_ring1
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_ring1/L_ring2
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_ring1/L_ring2/L_ring3
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_ring1/L_ring2/L_ring3/Joint_3_2
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_point
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_point/L_point2
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_point/L_point2/L_point3
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_point/L_point2/L_point3/Joint_3_5
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_thumb1
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2/L_thumb3
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2/L_thumb3/Joint_3
+        weight: 1
+      - path: L_arm_Pole
+        weight: 1
+      - path: mesh
+        weight: 1
+      - path: R_arm
+        weight: 1
+      - path: R_arm/R_elbow
+        weight: 1
+      - path: R_arm/R_elbow/R_forearm
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_middle1
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_middle1/R_middle2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_middle1/R_middle2/R_middle3
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_middle1/R_middle2/R_middle3/Joint_3_4_2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_pink1
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_pink1/R_pink2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_pink1/R_pink2/R_pink3
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_pink1/R_pink2/R_pink3/Joint_3_3_2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_ring1
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_ring1/R_ring2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_ring1/R_ring2/R_ring3
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_ring1/R_ring2/R_ring3/Joint_3_2_3
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_point
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_point/R_point2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_point/R_point2/R_point3
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_point/R_point2/R_point3/Joint_3_5_2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_thumb1
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2/R_thumb3
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2/R_thumb3/Joint_3_2_2
+        weight: 1
+      - path: R_arm_Pole
+        weight: 1
+      - path: sniper
+        weight: 1
+      - path: sniper/base
+        weight: 1
+      - path: sniper/bolt
+        weight: 1
+      - path: sniper/clip
+        weight: 1
+      - path: sniper/clip/bullet
+        weight: 1
+      - path: sniper/L_wrist_Goal
+        weight: 1
+      - path: sniper/R_wrist_Goal
+        weight: 1
+      - path: sniper/scope
+        weight: 1
+      - path: sniper/silencer
+        weight: 1
+      - path: sniper/stock
+        weight: 1
+      - path: sniper/trigger
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: sniper1Reload
+      takeName: CINEMA_4D_Main
+      firstFrame: 7
+      lastFrame: 106
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: L_arm
+        weight: 1
+      - path: L_arm/L_elbow
+        weight: 1
+      - path: L_arm/L_elbow/L_forearm
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_middle1
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_middle1/L_middle2
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_middle1/L_middle2/L_middle3
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_middle1/L_middle2/L_middle3/Joint_3_4
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_pink1
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_pink1/L_pink2
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_pink1/L_pink2/L_pink3
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_pink1/L_pink2/L_pink3/Joint_3_3
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_ring1
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_ring1/L_ring2
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_ring1/L_ring2/L_ring3
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_ring1/L_ring2/L_ring3/Joint_3_2
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_point
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_point/L_point2
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_point/L_point2/L_point3
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_point/L_point2/L_point3/Joint_3_5
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_thumb1
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2/L_thumb3
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2/L_thumb3/Joint_3
+        weight: 1
+      - path: L_arm_Pole
+        weight: 1
+      - path: mesh
+        weight: 1
+      - path: R_arm
+        weight: 1
+      - path: R_arm/R_elbow
+        weight: 1
+      - path: R_arm/R_elbow/R_forearm
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_middle1
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_middle1/R_middle2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_middle1/R_middle2/R_middle3
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_middle1/R_middle2/R_middle3/Joint_3_4_2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_pink1
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_pink1/R_pink2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_pink1/R_pink2/R_pink3
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_pink1/R_pink2/R_pink3/Joint_3_3_2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_ring1
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_ring1/R_ring2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_ring1/R_ring2/R_ring3
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_ring1/R_ring2/R_ring3/Joint_3_2_3
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_point
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_point/R_point2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_point/R_point2/R_point3
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_point/R_point2/R_point3/Joint_3_5_2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_thumb1
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2/R_thumb3
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2/R_thumb3/Joint_3_2_2
+        weight: 1
+      - path: R_arm_Pole
+        weight: 1
+      - path: sniper
+        weight: 1
+      - path: sniper/base
+        weight: 1
+      - path: sniper/bolt
+        weight: 1
+      - path: sniper/clip
+        weight: 1
+      - path: sniper/clip/bullet
+        weight: 1
+      - path: sniper/L_wrist_Goal
+        weight: 1
+      - path: sniper/R_wrist_Goal
+        weight: 1
+      - path: sniper/scope
+        weight: 1
+      - path: sniper/silencer
+        weight: 1
+      - path: sniper/stock
+        weight: 1
+      - path: sniper/trigger
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: sniper1Hide
+      takeName: CINEMA_4D_Main
+      firstFrame: 106
+      lastFrame: 116
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: L_arm
+        weight: 1
+      - path: L_arm/L_elbow
+        weight: 1
+      - path: L_arm/L_elbow/L_forearm
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_middle1
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_middle1/L_middle2
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_middle1/L_middle2/L_middle3
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_middle1/L_middle2/L_middle3/Joint_3_4
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_pink1
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_pink1/L_pink2
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_pink1/L_pink2/L_pink3
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_pink1/L_pink2/L_pink3/Joint_3_3
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_ring1
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_ring1/L_ring2
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_ring1/L_ring2/L_ring3
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_ring1/L_ring2/L_ring3/Joint_3_2
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_point
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_point/L_point2
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_point/L_point2/L_point3
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_point/L_point2/L_point3/Joint_3_5
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_thumb1
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2/L_thumb3
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2/L_thumb3/Joint_3
+        weight: 1
+      - path: L_arm_Pole
+        weight: 1
+      - path: mesh
+        weight: 1
+      - path: R_arm
+        weight: 1
+      - path: R_arm/R_elbow
+        weight: 1
+      - path: R_arm/R_elbow/R_forearm
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_middle1
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_middle1/R_middle2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_middle1/R_middle2/R_middle3
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_middle1/R_middle2/R_middle3/Joint_3_4_2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_pink1
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_pink1/R_pink2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_pink1/R_pink2/R_pink3
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_pink1/R_pink2/R_pink3/Joint_3_3_2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_ring1
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_ring1/R_ring2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_ring1/R_ring2/R_ring3
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_ring1/R_ring2/R_ring3/Joint_3_2_3
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_point
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_point/R_point2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_point/R_point2/R_point3
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_point/R_point2/R_point3/Joint_3_5_2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_thumb1
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2/R_thumb3
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2/R_thumb3/Joint_3_2_2
+        weight: 1
+      - path: R_arm_Pole
+        weight: 1
+      - path: sniper
+        weight: 1
+      - path: sniper/base
+        weight: 1
+      - path: sniper/bolt
+        weight: 1
+      - path: sniper/clip
+        weight: 1
+      - path: sniper/clip/bullet
+        weight: 1
+      - path: sniper/L_wrist_Goal
+        weight: 1
+      - path: sniper/R_wrist_Goal
+        weight: 1
+      - path: sniper/scope
+        weight: 1
+      - path: sniper/silencer
+        weight: 1
+      - path: sniper/stock
+        weight: 1
+      - path: sniper/trigger
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: sniper1Ready
+      takeName: CINEMA_4D_Main
+      firstFrame: 116
+      lastFrame: 160
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: L_arm
+        weight: 1
+      - path: L_arm/L_elbow
+        weight: 1
+      - path: L_arm/L_elbow/L_forearm
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_middle1
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_middle1/L_middle2
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_middle1/L_middle2/L_middle3
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_middle1/L_middle2/L_middle3/Joint_3_4
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_pink1
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_pink1/L_pink2
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_pink1/L_pink2/L_pink3
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_pink1/L_pink2/L_pink3/Joint_3_3
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_ring1
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_ring1/L_ring2
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_ring1/L_ring2/L_ring3
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_palm/L_ring1/L_ring2/L_ring3/Joint_3_2
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_point
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_point/L_point2
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_point/L_point2/L_point3
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_point/L_point2/L_point3/Joint_3_5
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_thumb1
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2/L_thumb3
+        weight: 1
+      - path: L_arm/L_elbow/L_wrist/L_thumb1/L_thumb2/L_thumb3/Joint_3
+        weight: 1
+      - path: L_arm_Pole
+        weight: 1
+      - path: mesh
+        weight: 1
+      - path: R_arm
+        weight: 1
+      - path: R_arm/R_elbow
+        weight: 1
+      - path: R_arm/R_elbow/R_forearm
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_middle1
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_middle1/R_middle2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_middle1/R_middle2/R_middle3
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_middle1/R_middle2/R_middle3/Joint_3_4_2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_pink1
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_pink1/R_pink2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_pink1/R_pink2/R_pink3
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_pink1/R_pink2/R_pink3/Joint_3_3_2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_ring1
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_ring1/R_ring2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_ring1/R_ring2/R_ring3
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_palm/R_ring1/R_ring2/R_ring3/Joint_3_2_3
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_point
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_point/R_point2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_point/R_point2/R_point3
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_point/R_point2/R_point3/Joint_3_5_2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_thumb1
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2/R_thumb3
+        weight: 1
+      - path: R_arm/R_elbow/R_wrist/R_thumb1/R_thumb2/R_thumb3/Joint_3_2_2
+        weight: 1
+      - path: R_arm_Pole
+        weight: 1
+      - path: sniper
+        weight: 1
+      - path: sniper/base
+        weight: 1
+      - path: sniper/bolt
+        weight: 1
+      - path: sniper/clip
+        weight: 1
+      - path: sniper/clip/bullet
+        weight: 1
+      - path: sniper/L_wrist_Goal
+        weight: 1
+      - path: sniper/R_wrist_Goal
+        weight: 1
+      - path: sniper/scope
+        weight: 1
+      - path: sniper/silencer
+        weight: 1
+      - path: sniper/stock
+        weight: 1
+      - path: sniper/trigger
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
