@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: ccfa66d48b5b7a64baa45e8bee7750d2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Light1:RetopoGroup1
+    100004: Light1:RetopoGroup1 1
+    100006: Light1:RetopoGroup1 2
+    100008: LOD_0
+    100010: LOD_1
+    100012: LOD_2
+    100014: LOD_3
+    100016: Pistol_Base
+    100018: Pistol_Base 1
+    100020: Pistol_Base 2
+    100022: Pistol_Base 3
+    100024: RetopoGroup1
+    100026: A
+    100028: C
+    100030: EP_1_LOD
+    100032: EP_Hand
+    100034: L
+    100036: Light
+    100038: Light 1
+    100040: Light 2
+    100042: Light 3
+    100044: M
+    400000: //RootNode
+    400002: Light1:RetopoGroup1
+    400004: Light1:RetopoGroup1 1
+    400006: Light1:RetopoGroup1 2
+    400008: LOD_0
+    400010: LOD_1
+    400012: LOD_2
+    400014: LOD_3
+    400016: Pistol_Base
+    400018: Pistol_Base 1
+    400020: Pistol_Base 2
+    400022: Pistol_Base 3
+    400024: RetopoGroup1
+    400026: A
+    400028: C
+    400030: EP_1_LOD
+    400032: EP_Hand
+    400034: L
+    400036: Light
+    400038: Light 1
+    400040: Light 2
+    400042: Light 3
+    400044: M
+    2100000: light1
+    2100002: ppp1
+    2100004: blinn2
+    2100006: EP_1_base_
+    2300000: Light1:RetopoGroup1
+    2300002: Light1:RetopoGroup1 1
+    2300004: Light1:RetopoGroup1 2
+    2300006: Pistol_Base
+    2300008: Pistol_Base 1
+    2300010: Pistol_Base 2
+    2300012: Pistol_Base 3
+    2300014: RetopoGroup1
+    2300016: Light
+    2300018: Light 1
+    2300020: Light 2
+    2300022: Light 3
+    3300000: Light1:RetopoGroup1
+    3300002: Light1:RetopoGroup1 1
+    3300004: Light1:RetopoGroup1 2
+    3300006: Pistol_Base
+    3300008: Pistol_Base 1
+    3300010: Pistol_Base 2
+    3300012: Pistol_Base 3
+    3300014: RetopoGroup1
+    3300016: Light
+    3300018: Light 1
+    3300020: Light 2
+    3300022: Light 3
+    4300000: Light1:RetopoGroup1
+    4300002: Pistol_Base
+    4300004: Light1:RetopoGroup1
+    4300006: Pistol_Base
+    4300008: Light1:RetopoGroup1
+    4300010: Pistol_Base
+    4300012: RetopoGroup1
+    4300014: Pistol_Base
+    4300016: Light
+    4300018: Light
+    4300020: Light
+    4300022: Light
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EP_1_base_
+    second: {fileID: 2100000, guid: 69491416af463764c8604a5356a07eb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn2
+    second: {fileID: 2100000, guid: 865302e1daa3aad498ed8524e85ef43a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light1
+    second: {fileID: 2100000, guid: 31d70f847b60c4e4286a1277b93e77c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ppp1
+    second: {fileID: 2100000, guid: 865302e1daa3aad498ed8524e85ef43a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 4
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

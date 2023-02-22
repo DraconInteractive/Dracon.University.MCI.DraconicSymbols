@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 17e74b49fa2741c4c9b4722933b95c8b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Laser
+    100004: Laser 1
+    100006: Laser 2
+    100008: Laser 3
+    100010: LOD_0
+    100012: LOD_1
+    100014: LOD_2
+    100016: LOD_3
+    100018: Laser1
+    100020: Laser2
+    100022: Laser3
+    100024: lod0
+    100026: lod1
+    100028: lod2
+    100030: lod3
+    100032: Lazer
+    400000: //RootNode
+    400002: Laser
+    400004: Laser 1
+    400006: Laser 2
+    400008: Laser 3
+    400010: LOD_0
+    400012: LOD_1
+    400014: LOD_2
+    400016: LOD_3
+    400018: Laser1
+    400020: Laser2
+    400022: Laser3
+    400024: lod0
+    400026: lod1
+    400028: lod2
+    400030: lod3
+    400032: Lazer
+    2100000: EP_1L
+    2300000: Laser
+    2300002: Laser 1
+    2300004: Laser 2
+    2300006: Laser 3
+    2300008: Laser1
+    2300010: Laser2
+    2300012: Laser3
+    3300000: Laser
+    3300002: Laser 1
+    3300004: Laser 2
+    3300006: Laser 3
+    3300008: Laser1
+    3300010: Laser2
+    3300012: Laser3
+    4300000: Laser
+    4300002: Laser
+    4300004: Laser
+    4300006: Laser
+    4300008: Laser1
+    4300010: Laser2
+    4300012: Laser3
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EP_1L
+    second: {fileID: 2100000, guid: b2f2820b432c3ac49a6b89498f4aaa47, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 4
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

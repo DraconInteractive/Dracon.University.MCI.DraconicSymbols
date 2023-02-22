@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: e3686789b23763645812c04db63c2317
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: blinn1SG
+    100002: blinn1SG 1
+    100004: blinn1SG 2
+    100006: blinn1SG 3
+    100008: blinn1SG 4
+    100010: blinn1SG 5
+    100012: //RootNode
+    100014: EP_1A:Glass
+    100016: EP_1A:Glass 1
+    100018: EP_1A:Glass 2
+    100020: EP_1A:Glass 3
+    100022: EP_1A:Glass1
+    100024: EP_1A:Glass1 1
+    100026: EP_1A:Glass1 2
+    100028: EP_1A:Glass1 3
+    100030: EP_1A_base
+    100032: EP_1A_base 1
+    100034: EP_1A_base 2
+    100036: EP_1A_base 3
+    100038: lod0
+    100040: lod1
+    100042: lod2
+    100044: lod3
+    100046: EP_1A_
+    400000: blinn1SG
+    400002: blinn1SG 1
+    400004: blinn1SG 2
+    400006: blinn1SG 3
+    400008: blinn1SG 4
+    400010: blinn1SG 5
+    400012: //RootNode
+    400014: EP_1A:Glass
+    400016: EP_1A:Glass 1
+    400018: EP_1A:Glass 2
+    400020: EP_1A:Glass 3
+    400022: EP_1A:Glass1
+    400024: EP_1A:Glass1 1
+    400026: EP_1A:Glass1 2
+    400028: EP_1A:Glass1 3
+    400030: EP_1A_base
+    400032: EP_1A_base 1
+    400034: EP_1A_base 2
+    400036: EP_1A_base 3
+    400038: lod0
+    400040: lod1
+    400042: lod2
+    400044: lod3
+    400046: EP_1A_
+    2100000: EP_1A_GLASS
+    2100002: EP_1A_BASE_
+    2300000: EP_1A:Glass
+    2300002: EP_1A:Glass 1
+    2300004: EP_1A:Glass 2
+    2300006: EP_1A:Glass 3
+    2300008: EP_1A:Glass1
+    2300010: EP_1A:Glass1 1
+    2300012: EP_1A:Glass1 2
+    2300014: EP_1A:Glass1 3
+    2300016: EP_1A_base
+    2300018: EP_1A_base 1
+    2300020: EP_1A_base 2
+    2300022: EP_1A_base 3
+    3300000: EP_1A:Glass
+    3300002: EP_1A:Glass 1
+    3300004: EP_1A:Glass 2
+    3300006: EP_1A:Glass 3
+    3300008: EP_1A:Glass1
+    3300010: EP_1A:Glass1 1
+    3300012: EP_1A:Glass1 2
+    3300014: EP_1A:Glass1 3
+    3300016: EP_1A_base
+    3300018: EP_1A_base 1
+    3300020: EP_1A_base 2
+    3300022: EP_1A_base 3
+    4300000: EP_1A:Glass
+    4300002: EP_1A:Glass1
+    4300004: EP_1A_base
+    4300006: EP_1A:Glass
+    4300008: EP_1A:Glass1
+    4300010: EP_1A_base
+    4300012: EP_1A:Glass
+    4300014: EP_1A:Glass1
+    4300016: EP_1A_base
+    4300018: EP_1A:Glass
+    4300020: EP_1A:Glass1
+    4300022: EP_1A_base
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EP_1A_BASE_
+    second: {fileID: 2100000, guid: 7e54ffc1ee14b03468c1929e2970c31d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EP_1A_GLASS
+    second: {fileID: 2100000, guid: 5b278c534bccf9b4cb0967efcf6f490c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 4
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: f719261fd566c9e438f149ef9803f196
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bullet
+    100002: Bullet 1
+    100004: Bullet 2
+    100006: Bullet 3
+    100008: //RootNode
+    100010: LOD_0
+    100012: LOD_1
+    100014: LOD_2
+    100016: LOD_3
+    100018: EP_1P_LOD_0
+    100020: EP_1P_LOD_1
+    100022: EP_1P_LOD_2
+    100024: EP_1P_LOD_3
+    100026: EP_1P
+    400000: Bullet
+    400002: Bullet 1
+    400004: Bullet 2
+    400006: Bullet 3
+    400008: //RootNode
+    400010: LOD_0
+    400012: LOD_1
+    400014: LOD_2
+    400016: LOD_3
+    400018: EP_1P_LOD_0
+    400020: EP_1P_LOD_1
+    400022: EP_1P_LOD_2
+    400024: EP_1P_LOD_3
+    400026: EP_1P
+    2100000: blinn2
+    2300000: Bullet
+    2300002: Bullet 1
+    2300004: Bullet 2
+    2300006: Bullet 3
+    2300008: EP_1P_LOD_0
+    2300010: EP_1P_LOD_1
+    2300012: EP_1P_LOD_2
+    2300014: EP_1P_LOD_3
+    3300000: Bullet
+    3300002: Bullet 1
+    3300004: Bullet 2
+    3300006: Bullet 3
+    3300008: EP_1P_LOD_0
+    3300010: EP_1P_LOD_1
+    3300012: EP_1P_LOD_2
+    3300014: EP_1P_LOD_3
+    4300000: Bullet
+    4300002: Bullet
+    4300004: Bullet
+    4300006: Bullet
+    4300008: EP_1P_LOD_0
+    4300010: EP_1P_LOD_1
+    4300012: EP_1P_LOD_2
+    4300014: EP_1P_LOD_3
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn2
+    second: {fileID: 2100000, guid: 0cbab920378406d40b2d63914ed43106, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 4
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
