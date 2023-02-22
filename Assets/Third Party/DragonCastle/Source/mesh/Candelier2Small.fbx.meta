@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: cefef5cdacfe5fe4c8aa2b5005a6ccd8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DragonCealing_LP
+    100004: Texture Group
+    100006: DragonCealing_LP1
+    100008: DragonCealing_LP10
+    100010: DragonCealing_LP11
+    100012: DragonCealing_LP12
+    100014: DragonCealing_LP2
+    100016: DragonCealing_LP3
+    100018: DragonCealing_LP4
+    100020: DragonCealing_LP5
+    100022: DragonCealing_LP6
+    100024: DragonCealing_LP7
+    100026: DragonCealing_LP8
+    100028: DragonCealing_LP9
+    100030: Texture Group1
+    100032: Texture Group2
+    100034: transform10
+    100036: transform11
+    100038: transform12
+    100040: transform3
+    100042: transform4
+    100044: transform9
+    100046: pillar_LOD0
+    100048: pillar_LOD1
+    100050: pillar_LOD2
+    100052: pillar_LOD3
+    400000: //RootNode
+    400002: DragonCealing_LP
+    400004: Texture Group
+    400006: DragonCealing_LP1
+    400008: DragonCealing_LP10
+    400010: DragonCealing_LP11
+    400012: DragonCealing_LP12
+    400014: DragonCealing_LP2
+    400016: DragonCealing_LP3
+    400018: DragonCealing_LP4
+    400020: DragonCealing_LP5
+    400022: DragonCealing_LP6
+    400024: DragonCealing_LP7
+    400026: DragonCealing_LP8
+    400028: DragonCealing_LP9
+    400030: Texture Group1
+    400032: Texture Group2
+    400034: transform10
+    400036: transform11
+    400038: transform12
+    400040: transform3
+    400042: transform4
+    400044: transform9
+    400046: pillar_LOD0
+    400048: pillar_LOD1
+    400050: pillar_LOD2
+    400052: pillar_LOD3
+    2300000: //RootNode
+    2300002: DragonCealing_LP
+    2300004: DragonCealing_LP12
+    2300006: pillar_LOD0
+    2300008: pillar_LOD1
+    2300010: pillar_LOD2
+    2300012: pillar_LOD3
+    3300000: //RootNode
+    3300002: DragonCealing_LP
+    3300004: DragonCealing_LP12
+    3300006: pillar_LOD0
+    3300008: pillar_LOD1
+    3300010: pillar_LOD2
+    3300012: pillar_LOD3
+    4300000: DragonCealing_LP
+    4300002: DragonCealing_LP12
+    4300004: pillar_LOD0
+    4300006: pillar_LOD1
+    4300008: pillar_LOD2
+    4300010: pillar_LOD3
+    6400000: pillar_LOD0
+    6400002: pillar_LOD1
+    6400004: pillar_LOD2
+    6400006: pillar_LOD3
+    7400000: Take 001
+    9500000: //RootNode
+    20500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DragonMarbleCealing_Mat
+    second: {fileID: 2100000, guid: 1910a7861c74cd846a88b091b9cefea6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture1
+    second: {fileID: 2100000, guid: 00b7e42ac5e7f7b4fba4c483d88dff28, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 0.001
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

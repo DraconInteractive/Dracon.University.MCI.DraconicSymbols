@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: e153991e222684243beab4dac1843ebe
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Chanderlier
+    100002: Chanderlier_MeshPart0
+    100004: Chanderlier_MeshPart1
+    100006: //RootNode
+    100008: Texture Group
+    100010: Chanderlier1_LOD0
+    100012: Chanderlier1_LOD1
+    100014: Chanderlier1_LOD2
+    100016: Chanderlier1_LOD3
+    400000: Chanderlier
+    400002: Chanderlier_MeshPart0
+    400004: Chanderlier_MeshPart1
+    400006: //RootNode
+    400008: Texture Group
+    400010: Chanderlier1_LOD0
+    400012: Chanderlier1_LOD1
+    400014: Chanderlier1_LOD2
+    400016: Chanderlier1_LOD3
+    2300000: Chanderlier_MeshPart0
+    2300002: Chanderlier_MeshPart1
+    2300004: Chanderlier1_LOD0
+    2300006: Chanderlier1_LOD1
+    2300008: Chanderlier1_LOD2
+    2300010: Chanderlier1_LOD3
+    3300000: Chanderlier_MeshPart0
+    3300002: Chanderlier_MeshPart1
+    3300004: Chanderlier1_LOD0
+    3300006: Chanderlier1_LOD1
+    3300008: Chanderlier1_LOD2
+    3300010: Chanderlier1_LOD3
+    4300000: Chanderlier_MeshPart0
+    4300002: Chanderlier_MeshPart1
+    4300004: Chanderlier1_LOD0
+    4300006: Chanderlier1_LOD1
+    4300008: Chanderlier1_LOD2
+    4300010: Chanderlier1_LOD3
+    6400000: Chanderlier1_LOD0
+    6400002: Chanderlier1_LOD1
+    6400004: Chanderlier1_LOD2
+    6400006: Chanderlier1_LOD3
+    7400000: Take 001
+    9500000: //RootNode
+    20500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DragonCandle_Mat
+    second: {fileID: 2100000, guid: c5025a866721d5b49b15e534fd51c64b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DragonChanderlier_Mat
+    second: {fileID: 2100000, guid: 2fb93349d48ca334290e835d68ab5287, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 8ffba3cab4ae28e4a936edfefe786199, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
