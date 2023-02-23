@@ -108,9 +108,9 @@ Material:
     - _BumpScale: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
-    - _CrackPower: 0.05
-    - _CrackPulseSpeed: 0.02
-    - _CrackScrollSpeed: 0.005
+    - _CrackPower: 0.1
+    - _CrackPulseSpeed: 0.26
+    - _CrackScrollSpeed: 0.05
     - _CrackStrMax: 1
     - _CrackStrMin: 0.6
     - _Cull: 2
@@ -128,19 +128,19 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _Smoothness: 0.1
+    - _Smoothness: 0.028
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _Surface: 0
-    - _V_AngleOffset: 22.3
-    - _V_CellDensity: 10
+    - _V_AngleOffset: 24.22
+    - _V_CellDensity: 9.33
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _CracksColor: {r: 8.031376, g: 1.5137671, b: 0, a: 1}
+    - _CracksColor: {r: 32.125504, g: 6.0550685, b: 0, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _MainColor: {r: 1, g: 1, b: 1, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
